@@ -2,7 +2,7 @@
     <div class="full-page my-background ">
         <div class="grid grid-cols-12 gap-4 ">
             <div class="col-start-4 col-end-10  flex flex-col items-center">
-                <div class="mt-12 md:mt-36 mb-12 md:mb-24 rounded-[24px] bg-opacity-50 bg-black p-10 min-w-[21rem] md:min-w-[53rem] sm:min-w-[20rem] text-white min-h-[30rem] md:min-h-[24rem] hvr-float animate__animated animate__fadeIn" data-aos="fade-up"
+                <div class="mt-12 md:mt-28 mb-12 md:mb-24 rounded-[24px] bg-opacity-50 bg-black p-10 min-w-[21rem] md:min-w-[53rem] sm:min-w-[20rem] text-white min-h-[30rem] md:min-h-[24rem] hvr-float animate__animated animate__fadeIn" data-aos="fade-up"
                     data-aos-once="false">
                     
                     <div class="text-[14px] md:text-[20px] sm:text-[14px]">

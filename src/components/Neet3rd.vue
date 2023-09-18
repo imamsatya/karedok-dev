@@ -5,7 +5,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#30344f" fill-opacity="1" d="M0,288L48,282.7C96,277,192,267,288,240C384,213,480,171,576,160C672,149,768,171,864,170.7C960,171,1056,149,1152,133.3C1248,117,1344,107,1392,101.3L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
         <div class="grid grid-cols-12 gap-4 ">
             <div class="col-start-4 col-end-10  flex flex-col items-center">
-                <div data-aos="fade-up" data-aos-once="false">
+                <div data-aos="fade-up" data-aos-once="true">
                     <div
                         class="mt-8 mb-2 md:mb-12  rounded-[24px]  p-10 min-w-[21rem] md:min-w-[53rem] sm:min-w-[20rem] text-white min-h-[30rem] md:min-h-[24rem] hvr-float animate__animated animate__fadeIn firstCard mycard">
                         <div class="text-[14px] md:text-[24px] sm:text-[14px]">
@@ -100,7 +100,7 @@
                     </div> -->
 
 
-                    <div data-aos="fade-up" data-aos-once="false">
+                    <div data-aos="fade-up" data-aos-once="true">
                         <div class="mb-12 md:mb-24 mt-2 md:mt-12 rounded-[24px]  p-10 min-w-[21rem] md:min-w-[53rem] sm:min-w-[20rem] text-white min-h-[30rem] md:min-h-[24rem]   mycard hvr-float animate__animated animate__fadeIn"
                             data-aos="fade-up" data-aos-once="false">
                             <div class="text-[14px] md:text-[24px] sm:text-[14px] ">
